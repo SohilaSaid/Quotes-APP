@@ -1,0 +1,31 @@
+body{
+    background-color: #FFF4EA;
+}
+
+h1{
+    color: #C96868;
+}
+
+p{
+    color: #dfc079;
+}
+
+
+.quote p {
+    color:#7EACB5 ;
+}
+
+.quote h4{
+    color:#7EACB5 ;
+}
+button{
+    border: 3px solid #C96868 ;
+    background-color:#FFF4EA ;
+    color: #C96868 ;
+}
+button:hover{
+    
+    background-color:#C96868 ;
+    color:#FADFA1 ;
+    
+}
